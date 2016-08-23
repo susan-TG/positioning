@@ -1,0 +1,28 @@
+/* Pon tu código css aqui */
+body {
+	margin:; 0;
+	padding: 0; 
+
+}
+.box {
+	width: 200px;
+	height: 200px;
+	
+}
+.caja1 {
+	background-color: #EE3E64;
+	position: relative;
+}
+.caja2 {
+	background-color: #44ACCF;
+	left: 200px;
+	position: absolute;
+}
+.caja3 {
+	background-color: #b7d84b;
+	position: relative;
+}
+.caja4 {
+	background-color: yellow;
+	position: relative;
+}
